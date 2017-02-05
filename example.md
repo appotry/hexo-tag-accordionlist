@@ -3,24 +3,24 @@ title: hexo-tag-accordionlist-example
 ---
 
 {% accordionlist %}
-<page>
+<ll>
 1
 1
 1
-</page>
-<page>
+</ll>
+<ll>
 2
 2
 2
-</page>
-<page>
+</ll>
+<ll>
 3
 3
 3
-</page>
-<page>
+</ll>
+<ll>
 4
 4
 4
-</page>
+</ll>
 {% endaccordionlist %}
