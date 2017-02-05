@@ -1,7 +1,7 @@
 {
   "name": "hexo-tag-accordionlist",
   "version": "0.0.1",
-  "description": "Create a random page area for independent contents in the post content.",
+  "description": "Create a accordion list for independent contents in the post content.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
