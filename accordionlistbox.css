@@ -117,6 +117,10 @@
  .submenu li {
  	border-bottom: 1px solid #eee;
  }
+  .submenu li:last-child {
+ 	border-bottom: 1px solid #CCC;
+ }
+
 
  .submenu a {
  	display: block;
@@ -127,6 +131,7 @@
  	-webkit-transition: all 0.25s ease;
  	-o-transition: all 0.25s ease;
  	transition: all 0.25s ease;
+	border: 0;
  }
 
  .submenu a:hover {
