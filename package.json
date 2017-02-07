@@ -1,6 +1,6 @@
 {
   "name": "hexo-tag-accordionlist",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Create a accordion list for independent contents in the post content.",
   "main": "index.js",
   "scripts": {
